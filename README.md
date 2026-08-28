@@ -1,6 +1,6 @@
 # Cześć, jestem Karol 👋
 
-Jestem technikiem informatykiem oraz studentem 3. roku informatyki. Aktywnie rozwijam swoje kompetencje w zakresie technologii webowych, sieci komputerowych oraz administracji bazami danych. Główny nacisk w moim rozwoju kładę na tworzenie aplikacji webowych w warstwie frontendowej.
+Jestem technikiem informatykiem oraz studentem 4. roku informatyki. Aktywnie rozwijam swoje kompetencje w zakresie technologii webowych, sieci komputerowych oraz administracji bazami danych. Główny nacisk w moim rozwoju kładę na tworzenie aplikacji webowych w warstwie frontendowej.
 
 ## 🛠️ Technologie i Narzędzia
 
